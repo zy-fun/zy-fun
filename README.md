@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![My gitHub stats](https://github-readme-stats-beige-gamma-33.vercel.app/api?username=zy-fun)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zy-fun/zy-fun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
